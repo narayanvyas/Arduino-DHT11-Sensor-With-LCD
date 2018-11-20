@@ -11,6 +11,7 @@
  *  - 10KOhm potentiometer
  *  - DHT11
  *  - 16x2 LCD Screen
+ *  - 4.7k Resistor
  *  - jumper wires
  *  - Breadboard
  *  

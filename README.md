@@ -6,7 +6,8 @@ DHT11 Temperature And Humidity Sensor With LCD.
 2. Arduino IDE
 3. DHT11 Sensor
 4. Breadboard / PCB
-5. Jumper Wires
+5. 4.7k Resistor
+6. Jumper Wires
 
 ## Breadboard Diagram -
 ![Breadboard Diagram](https://github.com/narayanvyas/Arduino-DHT11-Sensor-With-LCD/blob/master/Breadboard%20Diagram.jpeg)
